@@ -12,12 +12,21 @@ de trabajo, que son:
 - Electrónica básica
 - Creación audiovisual
 
+Cada una de las sesiones de cada mes llevan asociado uno de los siguientes temas,
+un ejercicio por tema y sesión, con la siguiente nomenclatura:
+
+- Teoría sobre sonido y música electrónica (TSME)
+- Programación informática (PI)
+- Electrónica sonora (ES)
+- Creación audiovisual (CA)
+
 Las herramientas usadas para trabajar cada una de estas áreas van a ir cambiando
 y complejizándose en cada curso, siendo posible repetir herramientas en varios cursos.
 
-Para el primer/segundo curso las herramientas propuestas serán:
+Para el primer/segundo curso las herramientas propuestas serán estas, aunque no
+todos los ejercicios necesitan siempre el uso de estas herramientas.
 
 - Teoría sobre sonido y música electrónica (sonic pi)
 - Programación informática (scratch)
-- Electrónica básica (microbit)
+- Electrónica sonora (micro:bit)
 - Creación audiovisual (Soundcool)
