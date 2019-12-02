@@ -18,9 +18,12 @@ La siguiente media hora se puede dedicar a hacer un ejercicio de escucha, para e
 el profesor/a presentará una pieza musical de música electrónica que le interese por algo
 y pedirá al alumnado que proponga su propia música electrónica.
 
-Se propone la siguiente audición:
+Se proponen las siguientes audiciones:
 https://www.youtube.com/watch?v=XVsqxNy8kkg
-(Liquid Energy - Electrosonic - Delia Derbyshire)
+(Electrosonic - Delia Derbyshire)
+
+https://www.youtube.com/playlist?list=PLSdoVPM5Wnne3Q2AxosemsThywhraJ0su
+(Homework - Daft Punk)
 
 El objetivo es discutir sobre esta música:
 
