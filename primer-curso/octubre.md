@@ -19,11 +19,11 @@ el profesor/a presentará una pieza musical de música electrónica que le inter
 y pedirá al alumnado que proponga su propia música electrónica.
 
 Se proponen las siguientes audiciones:
-https://www.youtube.com/watch?v=XVsqxNy8kkg
-(Electrosonic - Delia Derbyshire)
+- https://www.youtube.com/watch?v=XVsqxNy8kkg
+    (Electrosonic - Delia Derbyshire)
 
-https://www.youtube.com/playlist?list=PLSdoVPM5Wnne3Q2AxosemsThywhraJ0su
-(Homework - Daft Punk)
+- https://www.youtube.com/playlist?list=PLSdoVPM5Wnne3Q2AxosemsThywhraJ0su
+    (Homework - Daft Punk)
 
 El objetivo es discutir sobre esta música:
 
@@ -41,6 +41,8 @@ La última parte de la primera clase la dedicamos a explorar el ordenador, podem
 - Cómo acceder a los programas y donde guardar la información que vamos generando.
 
 # SEGUNDA CLASE (PI)
+
+
 
 # TERCERA CLASE (ES)
 
