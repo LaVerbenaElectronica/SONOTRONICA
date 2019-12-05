@@ -61,7 +61,21 @@ La Melodía principal de la canción es: D - D - F - D  |  F - G - C - A
 
 # SEGUNDA CLASE (PI)
 
+Retomamos la clase anterior repasando los conceptos explicados relativos al ordenador y los pasos que hay que dar para
+poder hacer sonido con él: 
 
+- Usuario que tenemos y la contraseña.
+- Donde poder acceder al volumen general del ordenador, como conectar los auriculares y la interfaz de sonido.
+- Cómo conectarse a un altavoz. La diferencia entre altavoces activos y pasivos.
+- Hacer soundcheck poniendo un audio de youtube.
+
+Una vez que queda claro y que todo el mundo ha hecho su soundcheck, repasamos la melodía de Kraftwerk donde lo dejamos la clase
+anterior. Cambiamos al gato por un saxofón u otro instrumento musical tradicional en el programa y nos lanzamos a programar de oido
+la melodia, sabiendo ya las notas de antemano, que eran: D - D - F - D  |  F - G - C - A. Se insiste en que este trabajo lo hagan solos, para practicar el dictado. Cantan las notas y las intentan programar. 
+
+El resultado que nos tiene que dar es este: 
+
+![DieRoboterScratch](melodia.png)
 
 # TERCERA CLASE (ES)
 
