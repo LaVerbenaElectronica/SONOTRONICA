@@ -55,6 +55,8 @@ La última parte de la primera clase la dedicamos a explorar el ordenador, podem
 
 La tercera parte de la clase la hemos dedicado a programar. Hemos elegido la partitura de Roboter de Kraftwerk y la hemos buscado en internet. Hemos aprendido las notas en inglés. DO (C) - RE (D) - MI (E) - FA (F) - SOL (G) - LA (A) - SI (B).
 
+![DieRoboterKraftwerk](Screenshot_1.png)
+
 La Melodía principal de la canción es: D - D - F - D  |  F - G - C - A
 
 # SEGUNDA CLASE (PI)
