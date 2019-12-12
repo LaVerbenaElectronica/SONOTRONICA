@@ -77,6 +77,33 @@ El resultado que nos tiene que dar es este:
 
 ![DieRoboterScratch](melodia.png)
 
+Y si queremos hacerlo en Sonic Pi, el resultado es este: 
+
+``` python
+loop do
+  sample :bd_haus
+  play :d
+  sleep 0.75
+  play :d
+  sleep 0.25
+  sample :bd_haus
+  play :f
+  sleep 0.25
+  play :d
+  sleep 0.75
+  sample :bd_haus
+  play :f
+  sleep 0.5
+  play :g
+  sleep 0.25
+  play :c5
+  sleep 0.25
+  sample :bd_haus
+  play :a
+  sleep 1
+end
+```
+
 # TERCERA CLASE (ES)
 
 # CUARTA CLASE (CA)
