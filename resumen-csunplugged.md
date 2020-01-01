@@ -32,8 +32,7 @@ Se les pide que traduzcan los siguientes números en binario:
 
 Una vez corregido este ejercicio vamos a usar el código binario para ver las representaciones de los siguientes símbolos. Esto es importante porque ayuda a hablar de la representatividad del código binario. No se entrega ficha, se resuelve directamente en la pizarra con el proyector.
 
-(/csunplugged/binario1.png)!
-
+![binario](/csunplugged/binario1.png)
 
 El siguiente ejercicio consiste en hacer el ejercicio inverso.
 Se trata de decir los números binarios de los siguientes números decimales.
@@ -61,6 +60,7 @@ Se trata de decir los números binarios de los siguientes números decimales.
 
 La última actividad consiste en construir un modem que envíe mensajes en binario.
 
+``` python
 # mensaje sin sentido
 
 #################################
@@ -131,5 +131,6 @@ long.times do |letra|
     sleep 0.08
   end
 end
+```
 
 Otro día vemos como se puede volver a traducir este audio en bits
