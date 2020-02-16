@@ -1,11 +1,11 @@
-# OCTUBRE
+# DICIEMBRE
 
 El mes de octubre sirve para presentar la asignatura, para conocer los objetivos
 del curso, las herramientas que se van a usar y la organización general de las
 clases.
 
 
-# PRIMERA CLASE (TSME)
+# PRIMERA SEMANA
 
 0:00 - 0:30
 
@@ -16,13 +16,13 @@ Para apoyarse en ejemplos, el profesor/a presentará una pieza musical de músic
 y pedirá al alumnado que proponga su propia música electrónica. Se proponen las siguientes audiciones:
 
 En el tiempo de escribir estas lineas, prácticamente todo el alumnado ha escuchado a Daft Punk, sobretodo Get Lucky.
-Como Get Lucky es más bien instrumental y voz, se propone escuchar alguna canción del disco 'Homework'. 
+Como Get Lucky es más bien instrumental y voz, se propone escuchar alguna canción del disco 'Homework'.
 
 Sirva esta pieza como ejemplo de música realizada en los 90s/80s.
 - https://www.youtube.com/playlist?list=PLSdoVPM5Wnne3Q2AxosemsThywhraJ0su
     (Homework - Daft Punk)
-    
-También se propone a Kraftwerk como modelo de una etapa ligeramente anterior, los 80s/70s. 
+
+También se propone a Kraftwerk como modelo de una etapa ligeramente anterior, los 80s/70s.
 - https://www.youtube.com/watch?v=5DBc5NpyEoo
     (Der Roboter 1978 - Kraftwerk)
 
@@ -39,9 +39,9 @@ con la música que suena?
 A continuación les hablamos del primer instrumento de música electrónica que se conoce, el Theremin. Se habla de que
 la historia de la electrónica tiene más de 100 años y de que el primer instrumento que se conoce lo creó Leon Theremin
 y que la mejor intérprete de Theremin y la primera fue, Clara Rockmore. Ponemos el video de the Swan con ella tocando
-con su heramana al piano. 
+con su heramana al piano.
 
-Optativamente, podemos montar el Theremin y enseñarles a tocarlo. 
+Optativamente, podemos montar el Theremin y enseñarles a tocarlo brevemente.
 
 0:30 - 0:60
 
@@ -55,14 +55,14 @@ La última parte de la primera clase la dedicamos a explorar el ordenador, podem
 
 La tercera parte de la clase la hemos dedicado a programar. Hemos elegido la partitura de Roboter de Kraftwerk y la hemos buscado en internet. Hemos aprendido las notas en inglés. DO (C) - RE (D) - MI (E) - FA (F) - SOL (G) - LA (A) - SI (B).
 
-![DieRoboterKraftwerk](Screenshot_1.png)
+![DieRoboterKraftwerk](imagenes/Screenshot_1.png)
 
 La Melodía principal de la canción es: D - D - F - D  |  F - G - C - A
 
-# SEGUNDA CLASE (PI)
+# SEGUNDA SEMANA
 
 Retomamos la clase anterior repasando los conceptos explicados relativos al ordenador y los pasos que hay que dar para
-poder hacer sonido con él: 
+poder hacer sonido con él:
 
 - Usuario que tenemos y la contraseña.
 - Donde poder acceder al volumen general del ordenador, como conectar los auriculares y la interfaz de sonido.
@@ -71,13 +71,13 @@ poder hacer sonido con él:
 
 Una vez que queda claro y que todo el mundo ha hecho su soundcheck, repasamos la melodía de Kraftwerk donde lo dejamos la clase
 anterior. Cambiamos al gato por un saxofón u otro instrumento musical tradicional en el programa y nos lanzamos a programar de oido
-la melodia, sabiendo ya las notas de antemano, que eran: D - D - F - D  |  F - G - C - A. Se insiste en que este trabajo lo hagan solos, para practicar el dictado. Cantan las notas y las intentan programar. 
+la melodia, sabiendo ya las notas de antemano, que eran: D - D - F - D  |  F - G - C - A. Se insiste en que este trabajo lo hagan solos, para practicar el dictado. Cantan las notas y las intentan programar.
 
-El resultado que nos tiene que dar es este: 
+El resultado que nos tiene que dar es este:
 
-![DieRoboterScratch](melodia.png)
+![DieRoboterScratch](imagenes/melodia.png)
 
-Y si queremos hacerlo en Sonic Pi, el resultado es este: 
+Y si queremos hacerlo en Sonic Pi, el resultado es este:
 
 ``` python
 loop do
@@ -104,6 +104,21 @@ loop do
 end
 ```
 
-# TERCERA CLASE (ES)
+# TERCERA SEMANA
 
-# CUARTA CLASE (CA)
+La tercera clase coincidió con la audición del alumnado de piano, donde se desarrolló el proyecto "Strange Mr Satie".
+Para este concierto se creó un patch de Soundcool donde se controlaban los sonidos que acompañarian los cambios
+de los pianistas y las videoproyecciones. Este sistema se puede controlar desde el teléfono usando la app de Souncool.
+
+Por eso se utilizó la clase para hablar del setup de audio del auditorio:
+- Smartphone -> Control del concierto.
+- Ordenador con Souncool -> fuente de sonido
+  - Mesa de mezclas -> control de audio
+  - Subwoofer -> Sistema de difusión sonora, mono, frecuencias graves.
+  - Altavoces -> Sistema de difusión sonora, estéreo, frecuencias medias y agudas.
+- Proyectores -> presentación de las imágenes.
+
+
+# CUARTA SEMANA
+
+VACACIONES DE NAVIDAD.
