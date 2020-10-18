@@ -1,4 +1,6 @@
-# DICIEMBRE
+# [INDICE](../indice.md)
+
+# OCTUBRE (Proyecto Halloween)
 
 El mes de octubre sirve para presentar la asignatura, para conocer los objetivos
 del curso, las herramientas que se van a usar y la organización general de las
@@ -43,23 +45,24 @@ con su heramana al piano.
 
 Optativamente, podemos montar el Theremin y enseñarles a tocarlo brevemente.
 
-0:30 - 0:60
-
 La última parte de la primera clase la dedicamos a explorar el ordenador, podemos ver:
 - Usuario que tenemos y la contraseña.
 - Donde poder acceder al volumen general del ordenador, como conectar los auriculares y la interfaz de sonido.
 - Cómo conectarse a un altavoz. La diferencia entre altavoces activos y pasivos.
 - Hacer soundcheck poniendo un audio de youtube.
 
-0:60 - 1:30
+Como estamos a las puertas de Haloween, esta clase se puede orientar a trabajar en los sonidos tipicos de Haloween, por ejemplo los que aparecen en la canción "Esto es Halloween" de Pesadilla antes de Navidad.
 
-La tercera parte de la clase la hemos dedicado a programar. Hemos elegido la partitura de Roboter de Kraftwerk y la hemos buscado en internet. Hemos aprendido las notas en inglés. DO (C) - RE (D) - MI (E) - FA (F) - SOL (G) - LA (A) - SI (B).
-
-![DieRoboterKraftwerk](imagenes/Screenshot_1.png)
-
-La Melodía principal de la canción es: D - D - F - D  |  F - G - C - A
+![PesadillaAntesDeNavidad](imagenes/octubre/pesadilla.jpeg)
 
 # SEGUNDA SEMANA
+
+Esta segunda semana tenemos una actividad muy especial, que consiste en dibujar un mapa de los sonidos de la escuela. 
+Esta actividad tiene como objetivo principal que el alumnado nuevo de Sonotrónica conozca la escuela y se familiarice con sus sonidos, aulas, espacios, etc.
+
+Para ello se han colocado 5 altavoces bluetooth con 5 sonidos que no corresponden con la escuela. Estos sonidos se han grabado de diferentes espacios sonoros del campo y la ciudad y son: insectos, agua corriendo, gente hablando, galopar de caballos y pájaros trinando.
+
+Para la actividad el alumnado necesita papel y bolígrafo para escribir todo lo que oye, así como para diferenciar entre sonidos reales y sonidos "artificales". 
 
 Retomamos la clase anterior repasando los conceptos explicados relativos al ordenador y los pasos que hay que dar para
 poder hacer sonido con él:
@@ -69,56 +72,17 @@ poder hacer sonido con él:
 - Cómo conectarse a un altavoz. La diferencia entre altavoces activos y pasivos.
 - Hacer soundcheck poniendo un audio de youtube.
 
-Una vez que queda claro y que todo el mundo ha hecho su soundcheck, repasamos la melodía de Kraftwerk donde lo dejamos la clase
-anterior. Cambiamos al gato por un saxofón u otro instrumento musical tradicional en el programa y nos lanzamos a programar de oido
-la melodia, sabiendo ya las notas de antemano, que eran: D - D - F - D  |  F - G - C - A. Se insiste en que este trabajo lo hagan solos, para practicar el dictado. Cantan las notas y las intentan programar.
+Por último se hace un diseño sonoro del espacio para trabajar al siguiente día: 
 
-El resultado que nos tiene que dar es este:
-
-![DieRoboterScratch](imagenes/melodia.png)
-
-Y si queremos hacerlo en Sonic Pi, el resultado es este:
-
-``` python
-loop do
-  sample :bd_haus
-  play :d
-  sleep 0.75
-  play :d
-  sleep 0.25
-  sample :bd_haus
-  play :f
-  sleep 0.25
-  play :d
-  sleep 0.75
-  sample :bd_haus
-  play :f
-  sleep 0.5
-  play :g
-  sleep 0.25
-  play :c5
-  sleep 0.25
-  sample :bd_haus
-  play :a
-  sleep 1
-end
-```
+![PlanHaloween](imagenes/octubre/plan-haloween.jpeg)
 
 # TERCERA SEMANA
 
-La tercera clase coincidió con la audición del alumnado de piano, donde se desarrolló el proyecto "Strange Mr Satie".
-Para este concierto se creó un patch de Soundcool donde se controlaban los sonidos que acompañarian los cambios
-de los pianistas y las videoproyecciones. Este sistema se puede controlar desde el teléfono usando la app de Souncool.
+Esta semana se comienza la clase directmente o bien grabando o bien descargando de Freesound.org los sonidos que necesitamos para crear este pasaje del terror. 
 
-Por eso se utilizó la clase para hablar del setup de audio del auditorio:
-- Smartphone -> Control del concierto.
-- Ordenador con Souncool -> fuente de sonido
-  - Mesa de mezclas -> control de audio
-  - Subwoofer -> Sistema de difusión sonora, mono, frecuencias graves.
-  - Altavoces -> Sistema de difusión sonora, estéreo, frecuencias medias y agudas.
-- Proyectores -> presentación de las imágenes.
+Posteriormente se trabaja conjuntamente sobre Audacity, por ejemplo a través de [este tutorial](https://www.youtube.com/watch?v=ge6s3ZSO26U)
 
 
 # CUARTA SEMANA
 
-VACACIONES DE NAVIDAD.
+Esta última clase se trata de iluminar y colocar los sonidos estratégicamente para que las familias pasen a pasar mucho miedo por el día de Haloween.

@@ -5,10 +5,24 @@ sirva este documento como diario de la experiencia impartiendo esta asignatura.
 
 # PRIMER CURSO
 
-## [DICIEMBRE](/primer-curso/diciembre.md)
-## [ENERO](/primer-curso/enero.md)
-## [FEBRERO](/primer-curso/febrero.md)
-## MARZO
-## ABRIL
-## MAYO
-## JUNIO
+## Primer Trimestre
+
+### [OCTUBRE](primer-curso/octubre.md) - Halloween
+![PesadillaAntesDeNavidad](primer-curso/imagenes/octubre/pesadilla.jpeg)
+### [NOVIEMBRE/DICIEMBRE](primer-curso/noviembre.md) - Kraftwerk Die Roboter
+![DieRoboter](primer-curso/imagenes/noviembre/soundcool.png)
+
+## Segundo Trimestre
+
+### [ENERO](primer-curso/enero.md) - Programando 01010101
+### [FEBRERO](primer-curso/febrero.md)
+### [MARZO](primer-curso/marzo.md) - Los sonidos de casa
+
+## Tercer Trimestre
+
+### [ABRIL](primer-curso/abril.md) - Un cuento sonoro
+### [MAYO](primer-curso/mayo.md) - Historia de los Beats
+### [JUNIO](primer-curso/junio.md) - Remix
+
+
+# SEGUNDO CURSO
