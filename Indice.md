@@ -10,7 +10,7 @@ sirva este documento como diario de la experiencia impartiendo esta asignatura.
 ### [OCTUBRE](primer-curso/octubre.md) - Halloween
 ![PesadillaAntesDeNavidad](primer-curso/imagenes/octubre/pesadilla.jpeg)
 ### [NOVIEMBRE/DICIEMBRE](primer-curso/noviembre.md) - Typing Music Club
-![Typingcontest](primer-curso/imagenes/noviembre/typingclub.jpeg)
+![Typingcontest](primer-curso/imagenes/noviembre/typingclub.png)
 ## Segundo Trimestre
 
 ### [ENERO](primer-curso/enero.md) - Programando 01010101
