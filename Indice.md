@@ -15,7 +15,7 @@ sirva este documento como diario de la experiencia impartiendo esta asignatura.
 ## Segundo Trimestre
 
 ### [ENERO](primer-curso/enero.md) - Programando 01010101
-### [FEBRERO](primer-curso/febrero.md)
+### [FEBRERO](primer-curso/febrero.md) - Die Roboter
 ![DieRoboter](primer-curso/imagenes/noviembre/soundcool.png)
 ### [MARZO](primer-curso/marzo.md) - Los sonidos de casa
 
