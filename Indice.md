@@ -10,7 +10,6 @@ sirva este documento como diario de la experiencia impartiendo esta asignatura.
 ### [OCTUBRE](primer-curso/octubre.md) - Halloween
 ![PesadillaAntesDeNavidad](primer-curso/imagenes/octubre/pesadilla.jpeg)
 ### [NOVIEMBRE/DICIEMBRE](primer-curso/noviembre.md)
-![DieRoboter](primer-curso/imagenes/noviembre/soundcool.png)
 
 ## Segundo Trimestre
 
