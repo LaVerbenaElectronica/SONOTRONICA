@@ -9,9 +9,9 @@ sirva este documento como diario de la experiencia impartiendo esta asignatura.
 
 ### [OCTUBRE](primer-curso/octubre.md) - Halloween
 ![PesadillaAntesDeNavidad](primer-curso/imagenes/octubre/pesadilla.jpeg)
-### [NOVIEMBRE/DICIEMBRE](primer-curso/noviembre.md) - Typing Music Club
-![Typingcontest](primer-curso/imagenes/noviembre/typingclub.png)
-## Segundo Trimestre
+### [NOVIEMBRE/DICIEMBRE](primer-curso/noviembre.md) - Navidades Holográficas
+![holograma](primer-curso/imagenes/noviembre/holograma.jpg)
+## Segundo Trimestre 
 
 ### [ENERO](primer-curso/enero.md) - Programando 01010101
 ### [FEBRERO](primer-curso/febrero.md) - Die Roboter

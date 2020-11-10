@@ -82,7 +82,38 @@ Esta semana se comienza la clase directmente o bien grabando o bien descargando 
 
 Posteriormente se trabaja conjuntamente sobre Audacity, por ejemplo a través de [este tutorial](https://www.youtube.com/watch?v=ge6s3ZSO26U)
 
+Los audios ya mezclados por los alumnos darían este resultado: 
+
+<audio controls="controls">
+  <source type="audio/wav" src="audios/octubre/chiara-sara-proyecto.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+<audio controls="controls">
+  <source type="audio/wav" src="audios/octubre/hugo-angel-proyecto.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+<audio controls="controls">
+  <source type="audio/wav" src="audios/octubre/inigo-martina-proyecto.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+<audio controls="controls">
+  <source type="audio/wav" src="audios/octubre/max-proyecto.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+<audio controls="controls">
+  <source type="audio/wav" src="audios/octubre/pedro-proyecto.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
 
 # CUARTA SEMANA
 
 Esta última clase se trata de iluminar y colocar los sonidos estratégicamente para que las familias pasen a pasar mucho miedo por el día de Haloween.
+
+<video controls="controls">
+  <source type="video/mp4" src="audios/octubre/instalacion.mp4"></source>
+  <p>Your browser does not support the video element.</p>
+</video>
