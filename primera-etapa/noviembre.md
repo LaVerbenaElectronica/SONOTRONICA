@@ -1,4 +1,4 @@
-# [INDICE](../indice.md)
+## [~ Índice ~](Indice.md)
 
 # NOVIEMBRE
 En este proyecto vamos a crear unas esculturas holográficas usando las pantallas de nuestros ordenadores. 

@@ -1,4 +1,4 @@
-# [INDICE](../indice.md)
+## [~ Índice ~](Indice.md)
 
 # FEBRERO (Proyecto Die Roboter)
 
