@@ -87,7 +87,6 @@ Los audios ya mezclados por los alumnos darían este resultado:
 <audio controls="controls">
   <source type="audio/wav" src="audios/octubre/chiara-sara-proyecto.wav"></source>
 </audio>
-[audio1](/primera-etapa/audios/octubre/chiara-sara-proyecto.wav)
 
 <audio controls="controls">
   <source type="audio/wav" src="audios/octubre/hugo-angel-proyecto.wav"></source>
@@ -108,6 +107,8 @@ Los audios ya mezclados por los alumnos darían este resultado:
   <source type="audio/wav" src="audios/octubre/pedro-proyecto.wav"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
+
+[audio1](audios/octubre/chiara-sara-proyecto.wav)
 
 # CUARTA SEMANA
 
