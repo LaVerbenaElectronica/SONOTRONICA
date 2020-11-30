@@ -117,5 +117,6 @@ Esta última clase se trata de iluminar y colocar los sonidos estratégicamente 
 
 <video controls="controls">
   <source type="video/mp4" src="audios/octubre/instalacion.mp4"></source>
-  <p>Your browser does not support the video element.</p>
 </video>
+
+[video](audios/octubre/instalacion.mp4)
