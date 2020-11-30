@@ -86,7 +86,7 @@ Los audios ya mezclados por los alumnos darían este resultado:
 
 <audio controls="controls">
   <source type="audio/wav" src="audios/octubre/chiara-sara-proyecto.wav"></source>
-  [audio1](audios/octubre/chiara-sara-proyecto.wav)
+  ![audio1](audios/octubre/chiara-sara-proyecto.wav)
 </audio>
 
 <audio controls="controls">
