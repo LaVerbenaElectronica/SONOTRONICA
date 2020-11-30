@@ -38,7 +38,13 @@ Estos son algunos de los resultados.
 
 <iframe src="https://scratch.mit.edu/projects/194661967/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
+<iframe src="https://scratch.mit.edu/projects/275308608/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+Para darle un poco más de interés a nuestro proyecto, le añadimos sonidos grabados usando la propia herramienta de grabación de Scratch. Ojo, porque hay que darle permisos al micrófono y no todos los equipos aceptaron esto. 
+Los sonidos que se grabaron fueron campanas, panderetas, tambores, y sonidos de cascabeles y metalófonos.
+
 # TERCERA SEMANA
 
+La tercara semana de clase se dedica a hacer la animación. Para ello, partimos de imagenes estáticas para hacer pequeñas modificaciones. Un buen sitio donde descargar imágenes de navidad al estilo cartoon, que sean fácilmente animables es [esta web](http://clipart-library.com/christmas-cartoon-images-free.html).
 
 # CUARTA SEMANA
