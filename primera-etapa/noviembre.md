@@ -32,6 +32,11 @@ Blanca -> 2 seg, Negra -> 1 segundo, Negra con puntillo -> 1.5 seg, Corchea -> 0
 
 # SEGUNDA SEMANA
 
+En esta segunda semana, vamos a repasar y afianzar lo aprendido la semana pasada sobre las notas, pasando a traducir los villancicos en notas musicales dentro de scratch. Para ello, volvemos a pensar en las notas, las duraciones, repasamos todo lo que se necesita para poder hacer la tarea y nos centramos en la traducción de los villancicos de partituras de notación tradicional a notas en scratch.
+
+Estos son algunos de los resultados.
+
+<iframe src="https://scratch.mit.edu/projects/194661967/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 # TERCERA SEMANA
 
