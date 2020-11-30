@@ -90,25 +90,26 @@ Los audios ya mezclados por los alumnos darían este resultado:
 
 <audio controls="controls">
   <source type="audio/wav" src="audios/octubre/hugo-angel-proyecto.wav"></source>
-  <p>Your browser does not support the audio element.</p>
 </audio>
 
 <audio controls="controls">
   <source type="audio/wav" src="audios/octubre/inigo-martina-proyecto.wav"></source>
-  <p>Your browser does not support the audio element.</p>
 </audio>
 
 <audio controls="controls">
   <source type="audio/wav" src="audios/octubre/max-proyecto.wav"></source>
-  <p>Your browser does not support the audio element.</p>
 </audio>
 
 <audio controls="controls">
   <source type="audio/wav" src="audios/octubre/pedro-proyecto.wav"></source>
-  <p>Your browser does not support the audio element.</p>
 </audio>
 
 [audio1](audios/octubre/chiara-sara-proyecto.wav)
+[audio2](audios/octubre/hugo-angel-proyecto.wav)
+[audio3](audios/octubre/inigo-martina-proyecto.wav)
+[audio4](audios/octubre/max-proyecto.wav)
+[audio5](audios/octubre/pedro-proyecto.wav)
+
 
 # CUARTA SEMANA
 
