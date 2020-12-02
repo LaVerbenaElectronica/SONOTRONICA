@@ -72,6 +72,8 @@ void loop() {
 
 ```
 
+Y el enlace al [zip](SR04_Example.zip) con la solución.
+
 ## Ableton Live
 
 En este primer ejercicio vamos a continuar con la idea de crear beats en Ableton Live. 
