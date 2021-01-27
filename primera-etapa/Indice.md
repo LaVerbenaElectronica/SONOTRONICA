@@ -18,8 +18,8 @@ sirva este documento como diario de la experiencia impartiendo esta asignatura.
 
 |[ENERO](enero.md)                       |[FEBRERO](febrero.md)              |[MARZO](marzo.md)                      |
 |        :---------------------:         |       :---------------------:     |         :---------------------:       |
-|                                        |![DieRoboter](imagenes/febrero/soundcool.png)|                             |
-|  01010101                              |Die Roboter                        |   Los sonidos de casa                 |
+|![Sintetizador](imagenes/enero/sintetizador-online-small.png) |![DieRoboter](imagenes/febrero/soundcool.png)|                             |
+|  Sintetizador                              |Die Roboter                        |   Los sonidos de casa                 |
 
 
 

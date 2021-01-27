@@ -90,7 +90,6 @@ Se recomienda probar:
 - Amplifier Envelope -> A, D, S, R.
 
 
-
 # TERCERA SEMANA
 
 
