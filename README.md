@@ -13,5 +13,3 @@ A continuación pasamos a detallar cada uno de estos bloques:
 ## [Etapa infantil: primer y segundo cursos](primera-etapa/Indice.md)
 
 ## [Etapa adolescente: primer y segundo cursos](segunda-etapa/indice.md)
-
-## [Etapa adulta: curso electrónica](etapa-adulta/indice.md)
