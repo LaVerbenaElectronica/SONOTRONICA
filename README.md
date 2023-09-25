@@ -7,6 +7,6 @@ Más información sobre la metodología, y los objetivos curriculares generales,
 
 A continuación pasamos a detallar cada uno de estos bloques: 
 
-## [Etapa infantil: primer y segundo cursos](primera-etapa/Indice.md)
+## [Etapa infantil: primer y segundo cursos](primera-etapa/indice.md)
 
 ## [Etapa adolescente: primer y segundo cursos](segunda-etapa/indice.md)
