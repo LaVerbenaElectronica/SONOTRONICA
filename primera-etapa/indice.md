@@ -9,7 +9,7 @@
 * Ejercicio 2.
 * Ejercicio 3.
 
-### Bloque Melódico armónico. Percusión ORFF.
+### Bloque Melódico Armónico. Percusión ORFF.
 
 * Ejercicio 1. Interestellar. 
 * Ejercicio 2.
